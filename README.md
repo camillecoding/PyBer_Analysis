@@ -6,6 +6,7 @@ In this analysis, my aim was to visualize trends in use and ride data for my cli
 
 ## Results ##
 First, I needed to organize this data into a DataFrame and sort by the necessary parameters. The graphic below reveals the app usage by several parameters. 
+
 <img width="764" alt="Screen Shot 2022-01-21 at 8 46 54 AM" src="https://user-images.githubusercontent.com/95657458/150537661-c9f7dcef-e32b-4786-b258-34a5d9feb10b.png">
 
 Naturally, usage in Urban areas is the highest of all three regions for both riders and drivers. As a result, the total fares are highest in this region. Likely due to the geography of most urban areas, the average fares per ride and average fares per driver are lowest of all the three cities. Urban dwellers tend to travel within their geographic location and urban areas tend not to be large in terms of mileage.
