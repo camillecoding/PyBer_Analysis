@@ -13,7 +13,12 @@ Naturally, usage in Urban areas is the highest of all three regions for both rid
 
 Rural areas had the smallest usage in terms of rides and smallest pool of drivers. Because rural areas tend to be largest, the average fares per ride and average fares per driver were the highest of the three regions. 
 
+<img width="358" alt="Screen Shot 2022-01-22 at 11 11 31 AM" src="https://user-images.githubusercontent.com/95657458/150646562-e5f90816-2a35-4f06-8e31-7520dae38ac8.png">
+
+
 The final stage of this project required that I prepare this data for visualization in a scatter plot. I aggregated this data to indicate total weekly fares from January though April 2019. The scatterplot below emphasizes changes in total fares over the 4 month period.
+
+![Pyberfaresummary](https://user-images.githubusercontent.com/95657458/150646574-24c88d98-bbbc-40d9-8807-c2343a7bc18e.png)
 
 
 ## Summary ##
